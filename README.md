@@ -12,7 +12,9 @@ himself, colored blue, while player X gets the other half of the screen, colored
 * Pics folder
   - This also includes my drawings of the game and image illustrating the game's logic.
 
-#----------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Here you will find the project that I made to test my knowledge and implement something that I learned.
 Each project folder will have a word document in it.
 The document will contain mainly:
