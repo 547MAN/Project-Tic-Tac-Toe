@@ -1,4 +1,4 @@
-#https://547man.github.io/ttt/ game link
+#Game link https://547man.github.io/tictactoe/ 
 
 #Tic Tac Toe
 
