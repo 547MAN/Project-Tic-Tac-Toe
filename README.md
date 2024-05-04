@@ -10,5 +10,5 @@ himself, colored blue, while player X gets the other half of the screen, colored
   - This contains a Word document that breaks down the project. It includes where I stopped, what I achieved, what I want to implement, and my thought process.
   It also contains another folder with numerous Word files. The titles used are the dates on which I worked on the project. 01.05.2024 was the date the project was completed.
 * Pics folder
-- This also includes my drawings of the game and image illustrating the game's logic.
+  - This also includes my drawings of the game and image illustrating the game's logic.
 
